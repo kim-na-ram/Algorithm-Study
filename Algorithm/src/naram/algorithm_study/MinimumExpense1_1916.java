@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 
-public class MinimumExpense_1916 {
+public class MinimumExpense1_1916 {
 	
 	public static class City implements Comparable<City> {
 		int next;

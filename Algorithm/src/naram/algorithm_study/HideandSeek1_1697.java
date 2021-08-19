@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class HideAndSeek_1697 {
+public class HideandSeek1_1697 {
     
     public static int N, K;
     public static int[] map = new int[100001];
